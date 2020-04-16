@@ -12,6 +12,13 @@ void main() {
                 radius: 50.0,
                 backgroundImage: AssetImage('images/eu.jpg'),
               ),
+              Text(
+                'Lucas Rossi',
+                style: TextStyle(
+                  fontSize: 24.0,
+                  fontWeight: FontWeight.bold,
+                ),
+              )
             ],
           ),
         ),
