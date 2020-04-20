@@ -15,6 +15,7 @@ void main() {
               Text(
                 'Lucas Rossi',
                 style: TextStyle(
+                  fontFamily: 'PermanentMarker',
                   fontSize: 24.0,
                   fontWeight: FontWeight.bold,
                 ),
